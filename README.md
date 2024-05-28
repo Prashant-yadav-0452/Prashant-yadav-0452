@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    A <b>Software Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Greater Noida, India.
+    A <b>Data Science</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Greater Noida, India.
   </em>
  </p>
 
@@ -27,14 +27,13 @@
 ### Worked with 
 
 <code><img height="40" src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" title="Python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code>
+<code><img height="40" src="https://st4.depositphotos.com/15809744/29228/v/450/depositphotos_292281240-stock-illustration-business-statistics-logo-design-template.jpg" title="Statistic"></code>
+<code><img height="40" src="https://p1.hiclipart.com/preview/523/462/484/magnifying-glass-logo-analytics-data-analysis-big-data-it-operations-analytics-business-analytics-big-data-analytics-data-warehouse-png-clipart.jpg" title="Analysis"></code>
+<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_1ysvyeJcgojus2_wg9k2jclwoC2ybRN8ZxaB8FpFLg&s" title="Excel"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
+<code><img height="40" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" title="Power BI"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
-<code><img height="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" title="spring-boot"></code>
+<code><img height="40" src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png" title="Tableau"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 
 
