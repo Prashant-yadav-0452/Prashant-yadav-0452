@@ -26,7 +26,7 @@
 
 ### Worked with 
 
-<code><img height="40" src="https://en.wikipedia.org/wiki/File:Python-logo-notext.svg" title="Python"></code>
+<code><img height="40" src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" title="Python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
