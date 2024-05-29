@@ -42,7 +42,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <a href = "https://github.com/sumitkumar5683">
+  <a href = "https://github.com/Prashant-yadav-0452">
 <img src="https://github-readme-stats.vercel.app/api?username=sumitkumar5683&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
   </a>
  </p>
@@ -50,11 +50,11 @@
 ### Top Languages
 
 <p align="center">
-<a href = "https://github.com/sumitkumar5683">
+<a href = "https://github.com/Prashant-yadav-0452">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumar5683&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
 
 ### Follow Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sumit%20Kumar-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sumit-kumar-84b869231/)]) [![Instagram Badge](https://img.shields.io/badge/-@sumitkum156-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sumitkum156)](https://instagram.com/sumitkum156?igshid=ZDdkNTZiNTM= )  [![GitHub Badge](https://img.shields.io/badge/-@sumitkumar5683-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/sumitkumar5683)](https://github.com/sumitkumar5683) [![Gmail Badge](https://img.shields.io/badge/-@kumar.sumit321321-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:kumar.sumit321321@gmail.com)](mailto:kumar.sumit321321@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Prashant%20Yadav-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashant-yadav-aa126027a/)] [![Instagram Badge](https://img.shields.io/badge/-@Prashantydv47096-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/sumitkum156)](https://instagram.com/sumitkum156?igshid=ZDdkNTZiNTM= )  [![GitHub Badge](https://img.shields.io/badge/-@Prashant-Yadav-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Prashant-yadav-0452)](https://github.com/Prashant-yadav-0452) [![Gmail Badge](https://img.shields.io/badge/-@Prashantydv47096@gmail.com-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:prasahantydv47096@gmail.com)](mailto:prashantydv47096@gmail.com)
